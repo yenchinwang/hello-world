@@ -1,3 +1,3 @@
 # hello-world
 Learning Github.
-This is practice.
+This is for practice.
